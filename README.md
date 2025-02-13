@@ -1,1 +1,4 @@
 # EmailSender
+Basic Email sender.
+
+
